@@ -1,0 +1,134 @@
+#title{
+background-color: #43658b;
+position: relative;
+z-index: 1;
+
+
+}
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 4rem;
+  line-height: 1.5;
+  color: white;
+
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+
+
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  text-align: center;
+  padding-bottom: 10%;
+}
+h4{
+  color: white;
+  text-align: center;
+}
+p{
+  text-align: center;
+  color: grey;
+}
+.container-fluid{
+  padding: 3% 15% 7%;
+  margin: 10& auto;
+}
+.totoro-img{
+  width: 80%;
+  transform: rotate(20deg);
+  position: absolute;
+  top: 10%;
+  left: 40%;
+
+  border-radius: 10%;
+}
+.navbar-brand{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 2.5rem;
+}
+.navbar{
+  padding-bottom: 4.5rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+}
+#features{
+
+  padding: 20% auto;
+  position: relative;
+  z-index: 3;
+  background-color: white;
+}
+.download-btn{
+  margin: 20px 10px;
+}
+.right{
+  width: 25%;
+  position: relative;
+  left: 38%;
+  margin-bottom: 20px;
+  margin-top: 40px;
+}
+.user{
+  width: 25%;
+  position: relative;
+  left: 38%;
+  margin-bottom: 20px;
+  margin-top: 40px;
+}
+.heart{
+  width: 25%;
+  position: relative;
+  left: 38%;
+  margin-bottom: 20px;
+  margin-top: 40px;
+}
+
+#feedback-carasoul{
+  background-color: #43658b;
+  padding: 70px 0;
+
+}
+.totoro-feedback{
+  position: relative;
+  left: 38%;
+  padding-bottom: 10%;
+  border-radius: 100%;
+}
+.feedback{
+
+  padding: 20% auto;
+}
+.cihiro{
+  position: relative;
+  left: 38%;
+  padding-bottom: 10%;
+  border-radius: 100%;
+  width: 25%;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+
+.black-txt{
+  padding: 50px 0;
+  color: black;
+}
+.sign-up-btn{
+  margin: 10px auto;
+  position: relative;
+  left:0;
+}
+.feat{
+  position: relative;
+  margin-top:10%;
+}
